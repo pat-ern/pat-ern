@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Patricio Villarroel
 
-Actualmente soy un Desarrollador Front End apasionado por crear soluciones robustas y adaptables. Me enfoco en buenas prácticas, trabajo en equipo y optimización del rendimiento. ¡Bienvenido/a a mi perfil de GitHub! 🚀
+Actualmente soy un Desarrollador Front End apasionado por crear soluciones robustas y adaptables. Me preocupo por llevar siempre  en buenas prácticas, trabajo en equipo y optimización del rendimiento. ¡Bienvenido/a a mi perfil de GitHub! 🚀
 
 ---
 
@@ -9,7 +9,7 @@ Actualmente soy un Desarrollador Front End apasionado por crear soluciones robus
 ### Front End
 - **Lenguajes**: HTML, CSS, JavaScript, TypeScript
 - **Preprocesadores**: SCSS/SASS
-- **Frameworks JS**: Angular (14+), VueJS, ReactJS
+- **Frameworks JS**: Angular (14+), VueJS
 - **Frameworks CSS/Componentes/JS**: Angular Material, PrimeFaces, Ionic, Bootstrap
 - **Herramientas**: Visual Studio Code, Github Desktop, 
 
