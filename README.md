@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Patricio Villarroel
 
-Actualmente soy un Desarrollador Front End apasionado por crear soluciones robustas y adaptables. Me preocupo por llevar siempre  en buenas prácticas, trabajo en equipo y optimización del rendimiento. ¡Bienvenido/a a mi perfil de GitHub! 🚀
+Actualmente soy un Desarrollador Full Stack apasionado por crear soluciones robustas y adaptables que garanticen una buena experiencia de usuario. Me considero en constante proceso de aprendizaje, buscando siempre adquirir nuevas capacidades y mejorar mis prácticas de programación. ¡Bienvenido/a a mi perfil de GitHub! 🚀
 
 ---
 
@@ -20,7 +20,7 @@ Actualmente soy un Desarrollador Front End apasionado por crear soluciones robus
 
 ### Otras Habilidades
 - **Patrones de Diseño**: Programación Orientada a Objetos (POO), Config Driven UI, Singleton, Smart/Dumb Components, Feature Module, Reactive Programming, SPA, Redux - State Management
-- **Gestión**: Metodologías Ágiles, Trabajo en Equipo, Comunicación Efectiva
+- **Gestión**: Metodologías Ágiles, Trabajo en Equipo, Comunicación Efectiva, Best Practices
 - **Idiomas**: Inglés Avanzado
 
 ## 🌐 Proyectos Destacados
