@@ -11,7 +11,7 @@ Actualmente soy un Desarrollador Full Stack apasionado por crear soluciones robu
 - **Preprocesadores**: SCSS/SASS
 - **Frameworks JS**: Angular (14+), VueJS
 - **Frameworks CSS/Componentes/JS**: Angular Material, PrimeFaces, Ionic, Bootstrap
-- **Herramientas**: Visual Studio Code, Github Desktop, 
+- **Herramientas**: Visual Studio Code, Github Desktop, Cursor, ClickUP, Postman
 
 ### Back End
 - **Lenguajes**: Python, Java, C#
